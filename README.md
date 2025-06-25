@@ -1,6 +1,7 @@
-🏨 Strutture Ricettive – Sistema Interattivo per la Regione Marche
+# Esercitazione finale Excel
 
-Ho sviluppato un sistema interattivo in **Excel** per agevolare la consultazione e il monitoraggio delle strutture ricettive presenti sul territorio della regione Marche.
+🏨 Ho sviluppato un sistema interattivo in **Excel** per agevolare la consultazione e il monitoraggio delle strutture ricettive presenti sul territorio della regione Marche.
+
 🎯 Obiettivi:
 - Consentire la selezione di una struttura specifica tramite menu a tendina, con visualizzazione automatica di tutte le informazioni associate (città, indirizzo, e-mail, ecc.);
 - Rendere disponibile una tabella dinamica filtrabile per città e categoria, per analizzare l’offerta turistica in base a criteri geografici e qualitativi.
